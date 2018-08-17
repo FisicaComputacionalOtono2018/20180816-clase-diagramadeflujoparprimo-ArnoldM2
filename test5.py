@@ -1,5 +1,5 @@
 #Alumno: Arnold Morales Morales
-#Fecha: 16 de Agosto de 2018
+#Fecha: 17 de Agosto de 2018
 #
 
 def primo(num):
